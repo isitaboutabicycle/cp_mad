@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Aug 18 13:52:51 BST 2017
+2.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\registrationscreen.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\helloandroid.xml
+0.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\loginscreen.xml
+0.set=ANDROID_RESOURCE

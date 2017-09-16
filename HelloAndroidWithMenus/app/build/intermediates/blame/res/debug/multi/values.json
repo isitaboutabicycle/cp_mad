@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithMenus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 58,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 49,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 49,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 58,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 58,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 54,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 54,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 56,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 56,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 37,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 37,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 43,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 43,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 67,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 67,
+                        "endOffset": 491
+                    }
+                }
+            }
+        ]
+    }
+]

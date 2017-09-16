@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Aug 18 13:53:16 BST 2017
+2.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_74e431b48cc3fafeaebe11c4eeed1e6570785b80
+6.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\loginscreen.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2de197107f25db8d4f6cc7a0ab17d3aa94ce0ea5\\classes.dex
+1.set=DEX
+7.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\registrationscreen.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_74e431b48cc3fafeaebe11c4eeed1e6570785b80\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2de197107f25db8d4f6cc7a0ab17d3aa94ce0ea5
+4.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\helloandroid.xml
+0.set=ANDROID_RESOURCE

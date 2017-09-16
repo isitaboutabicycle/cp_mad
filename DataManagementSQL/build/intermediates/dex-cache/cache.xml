@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cathal\Documents\DBS\3-MobileAppDev\cp_mad\DataManagementSQL\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Cathal\Documents\DBS\3-MobileAppDev\cp_mad\DataManagementSQL\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d011ff61b03bfda17081e88640cf354586505a37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cathal\Documents\DBS\3-MobileAppDev\cp_mad\DataManagementSQL\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8d151c61c083a44513fd1aa2aa779e7a8d9512a5">
+        <dex dex="C:\Users\Cathal\Documents\DBS\3-MobileAppDev\cp_mad\DataManagementSQL\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_376ab94ba988efbca9df18f0811483ae357e5e81\classes.dex" />
+    </item>
+
+</items>

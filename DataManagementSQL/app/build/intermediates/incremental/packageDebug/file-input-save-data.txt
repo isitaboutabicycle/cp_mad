@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Sep 12 14:00:27 BST 2017
+2.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d011ff61b03bfda17081e88640cf354586505a37
+5.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_376ab94ba988efbca9df18f0811483ae357e5e81
+6.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=DEX
+4.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\list_layout.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d011ff61b03bfda17081e88640cf354586505a37\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_376ab94ba988efbca9df18f0811483ae357e5e81\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\DataManagementSQL\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

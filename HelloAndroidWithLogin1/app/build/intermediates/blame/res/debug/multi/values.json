@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 58,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 46,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 46,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 56,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 56,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 62,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 62,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 62,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 62,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 48,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 48,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 46,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 46,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 52,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 52,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 52,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "C:\\Users\\Cathal\\Documents\\DBS\\3-MobileAppDev\\cp_mad\\HelloAndroidWithLogin1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 52,
+                        "endOffset": 165
+                    }
+                }
+            }
+        ]
+    }
+]
